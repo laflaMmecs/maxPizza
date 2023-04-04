@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "PT_Sans-Web-Italic";
+    src: url("/fonts/PT_Sans-Web-Italic.ttf");
+}
 * {
     margin: 0;
     padding: 0;
@@ -79,8 +83,7 @@
     margin-top: 60px;
     margin-bottom: 10px;
 }
-.main-container-content {
-}
+
 .content-biography {
     font-size: 20px;
     
